@@ -1,0 +1,7 @@
+name: LoreCommand
+main: com.gmail.Moon_Eclipse.LoreCommand.LoreCommand
+version: 0.1β[18.11.13]
+author: Moon_Eclipse
+commands:
+  lc:
+    description: /lc

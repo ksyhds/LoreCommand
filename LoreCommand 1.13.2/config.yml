@@ -1,0 +1,8 @@
+config:
+  절강커맨드1:
+    lore: '절강'
+    hand: 'left'
+    group: '포션'
+    commands:
+      - 'lightning'
+      - 'fireball'
